@@ -1,4 +1,3 @@
-#0lc2f7_7@temporary-mail.net https://www.temporary-mail.net/
 import traceback
 import sys
 import tkinter as tk
