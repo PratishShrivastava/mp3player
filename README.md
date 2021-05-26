@@ -19,13 +19,7 @@ However, if you want to run the scripts, then you must have [python](https://www
 
 
 ### YouTube
-You can see a live demo in this link
-![mp3 player demo](https://youtu.be/cneM8OXDnrI)
-
-### Settings
-Allows you to customize the app appearance. Also, view the search history for `Wikipedia`, `YouTube` and `Books` module.
-
-![how to settings](http://res.cloudinary.com/muhimen/image/upload/v1604124914/sp_how_to_settings.gif)
+You can see a live demo in this link [demo](https://youtu.be/cneM8OXDnrI)
 
 ## Contributions
 We love your open source enthusiasm. Seeing an app grow a bigger community is possibly the best thing a developer can expect. 😉
