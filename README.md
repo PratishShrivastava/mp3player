@@ -1,6 +1,6 @@
 # mp3 player
 
-<div align="center"> <img src="https://www.canva.com/design/DAEfmHpgmUo/AlXOx-WLYMuT5Fb_qGUk0A/view?utm_content=DAEfmHpgmUo&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" alt="logo"> 
+<div align="center"> <img src="https://res.cloudinary.com/pratish/image/upload/v1622047470/MP3_PLAYER_m5ahi2.png" alt="logo"> 
   
 ![Generic badge](https://img.shields.io/badge/CodeJam-Timathon-orange.svg)  ![exec](https://img.shields.io/badge/Executable-Windows%20%7C%20Linux-green.png)  ![Platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20Mac%20%7C%20Linux-blue.png)  ![version](https://img.shields.io/badge/Python%20Version-Python%203-blue.png)  ![GitHub repo size](https://img.shields.io/github/repo-size/fireplank/student-portal)  [![Discord](https://img.shields.io/discord/713785142597910549?label=Discord)](https://discord.gg/K2Cf6ma)
 
